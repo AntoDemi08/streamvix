@@ -1,4 +1,4 @@
-# streamvix
+# streamvix-1
 <img width="230" height="293" alt="icon" src="https://github.com/user-attachments/assets/11ef8b0e-6d55-44a4-9ccc-ae7031e99f34" />
 
 # 🎬 StreamViX | ElfHosted 
